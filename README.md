@@ -10,18 +10,6 @@
 
 <div align="center">
 
-<!-- Feature icons row using SVGs -->
-<p>
-  <img src="https://api.iconify.design/mdi/account-key.svg?color=%236366f1" width="36" title="Google OAuth"/>
-  <img src="https://api.iconify.design/mdi/message-processing.svg?color=%236366f1" width="36" title="Real-time Messaging"/>
-  <img src="https://api.iconify.design/mdi/clipboard-edit-outline.svg?color=%236366f1" width="36" title="Request Management"/>
-  <img src="https://api.iconify.design/mdi/shape-outline.svg?color=%236366f1" width="36" title="Category System"/>
-  <img src="https://api.iconify.design/mdi/account-circle-outline.svg?color=%236366f1" width="36" title="User Profiles"/>
-  <img src="https://api.iconify.design/mdi/cellphone.svg?color=%236366f1" width="36" title="Responsive Design"/>
-  <img src="https://api.iconify.design/mdi/robot-excited-outline.svg?color=%236366f1" width="36" title="Learning Chatbot"/>
-  <img src="https://api.iconify.design/mdi/email-fast-outline.svg?color=%236366f1" width="36" title="Email Notifications"/>
-</p>
-  
 | Feature | Description | Status |
 |:---:|:---|:---:|
 | 🔐 **Google OAuth Authentication** | Secure login with Google accounts | ✅ |
@@ -294,4 +282,5 @@ This project is licensed under the MIT License.
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   
 </div>
+
 

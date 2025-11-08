@@ -58,10 +58,6 @@
 - JWT Authentication
 - Google OAuth
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
 ## 📦 Installation
 
 <div align="center">
@@ -119,10 +115,6 @@ Start the frontend:
 npm run dev
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
 ## 🎯 Usage
 
 <div align="center">
@@ -164,10 +156,6 @@ npm run dev
 └── 📄 README.md
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
 ## 🔧 API Endpoints
 
 <div align="center">
@@ -189,10 +177,6 @@ npm run dev
 - `POST /api/requests/:id/complete` - Complete request
 - `GET /api/requests/categories/all` - Get categories
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
 ## 🚀 Deployment
 
 <div align="center">
@@ -212,9 +196,6 @@ npm run dev
 3. Set environment variables
 4. Deploy automatically
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
 
 ## 📝 Environment Variables
 
@@ -238,6 +219,3 @@ VITE_API_URL=http://localhost:3001/api
 VITE_GOOGLE_CLIENT_ID=your-google-client-id
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
